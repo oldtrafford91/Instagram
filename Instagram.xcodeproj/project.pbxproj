@@ -15,6 +15,7 @@
 		E18F668C213CC14000087426 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E18F668A213CC14000087426 /* LaunchScreen.storyboard */; };
 		E1DBC453213E2B4200C6171B /* SignInViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1DBC452213E2B4200C6171B /* SignInViewController.swift */; };
 		E1DBC455213E2B8700C6171B /* SignUpViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1DBC454213E2B8700C6171B /* SignUpViewController.swift */; };
+		E1DBC457213E2BF200C6171B /* ForgotPasswordViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1DBC456213E2BF200C6171B /* ForgotPasswordViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		E18F668D213CC14000087426 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E1DBC452213E2B4200C6171B /* SignInViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignInViewController.swift; sourceTree = "<group>"; };
 		E1DBC454213E2B8700C6171B /* SignUpViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpViewController.swift; sourceTree = "<group>"; };
+		E1DBC456213E2BF200C6171B /* ForgotPasswordViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForgotPasswordViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +92,7 @@
 				E18F668D213CC14000087426 /* Info.plist */,
 				E1DBC452213E2B4200C6171B /* SignInViewController.swift */,
 				E1DBC454213E2B8700C6171B /* SignUpViewController.swift */,
+				E1DBC456213E2BF200C6171B /* ForgotPasswordViewController.swift */,
 			);
 			path = Instagram;
 			sourceTree = "<group>";
@@ -209,6 +212,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E18F6684213CC13C00087426 /* ViewController.swift in Sources */,
+				E1DBC457213E2BF200C6171B /* ForgotPasswordViewController.swift in Sources */,
 				E18F6682213CC13C00087426 /* AppDelegate.swift in Sources */,
 				E1DBC455213E2B8700C6171B /* SignUpViewController.swift in Sources */,
 				E1DBC453213E2B4200C6171B /* SignInViewController.swift in Sources */,
