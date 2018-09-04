@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		2FFC971BC567F9D7BA0549A8 /* Pods_Instagram.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 87D55C1D20C864A52E4B1F71 /* Pods_Instagram.framework */; };
 		E18F6682213CC13C00087426 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E18F6681213CC13C00087426 /* AppDelegate.swift */; };
-		E18F6684213CC13C00087426 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E18F6683213CC13C00087426 /* ViewController.swift */; };
 		E18F6687213CC13C00087426 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E18F6685213CC13C00087426 /* Main.storyboard */; };
 		E18F6689213CC14000087426 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E18F6688213CC14000087426 /* Assets.xcassets */; };
 		E18F668C213CC14000087426 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E18F668A213CC14000087426 /* LaunchScreen.storyboard */; };
@@ -24,7 +23,6 @@
 		8FC1F0FB07738C405F130265 /* Pods-Instagram.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Instagram.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Instagram/Pods-Instagram.debug.xcconfig"; sourceTree = "<group>"; };
 		E18F667E213CC13C00087426 /* Instagram.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Instagram.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E18F6681213CC13C00087426 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		E18F6683213CC13C00087426 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		E18F6686213CC13C00087426 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		E18F6688213CC14000087426 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E18F668B213CC14000087426 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -85,7 +83,6 @@
 			isa = PBXGroup;
 			children = (
 				E18F6681213CC13C00087426 /* AppDelegate.swift */,
-				E18F6683213CC13C00087426 /* ViewController.swift */,
 				E18F6685213CC13C00087426 /* Main.storyboard */,
 				E18F6688213CC14000087426 /* Assets.xcassets */,
 				E18F668A213CC14000087426 /* LaunchScreen.storyboard */,
@@ -211,7 +208,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E18F6684213CC13C00087426 /* ViewController.swift in Sources */,
 				E1DBC457213E2BF200C6171B /* ForgotPasswordViewController.swift in Sources */,
 				E18F6682213CC13C00087426 /* AppDelegate.swift in Sources */,
 				E1DBC455213E2B8700C6171B /* SignUpViewController.swift in Sources */,
